@@ -1,0 +1,28 @@
+Warning: You are given a python runtime. Do not paste code from the internet! They may contain invisible texts that hacks your computer. Only execute your own code! 
+Warning: Do not paste code from a walkthrough! They may hack your computer this way. 
+warning: To make things fun, try not to look at the source code of the game. (Unless you are stuck and ready to check a walkthrough)
+
+type(tutorial), kill tutorial
+give nickname to NPCs
+self
+"no, you are not my type"
+
+Enemy Wizard: I'm going to clear your inventory!!!
+>> del inventory.clear
+* Enemy Wizard killed by: AttributeError('list' object has no attribute 'clear')
+
+breath thread
+
+NPC gives hint: did you know you can use __dict__ in place of dir?
+
+every time you throw an top-level exception, hp -= 1
+you can hp += 100
+
+enemy can directly kill you
+
+you examine the hp __sub__ function to study how you die
+
+inspect.getsource (of course, taught by an NPC)
+or, IPython "??" syntax
+
+Look at pyhton features! Think of interesting ways to quiz them and teach them. 
